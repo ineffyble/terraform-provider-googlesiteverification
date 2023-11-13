@@ -15,7 +15,7 @@ https://developers.google.com/site-verification
 terraform {
   required_providers {
     googlesiteverification = {
-      source  = "hectorj/googlesiteverification"
+      source  = "ineffyble/googlesiteverification"
     }
   }
 }

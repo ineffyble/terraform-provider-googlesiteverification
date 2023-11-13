@@ -16,7 +16,7 @@ The googlesiteverification provider is a simple provider hitting this API: https
 terraform {
   required_providers {
     googlesiteverification = {
-      source = "hectorj/googlesiteverification"
+      source = "ineffyble/googlesiteverification"
     }
   }
 }
